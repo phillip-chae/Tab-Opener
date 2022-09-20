@@ -1,0 +1,1 @@
+@py ""C:\Users\butte\PythonScripts\tabopen.py"" %*
