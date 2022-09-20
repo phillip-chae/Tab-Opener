@@ -1,1 +1,1 @@
-@py ""C:\Users\butte\PythonScripts\tabopen.py"" %*
+@py ""C:\Users\Phillip\Documents\GitHub\Tab-Opener\tabopen.py"" %*
